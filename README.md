@@ -2,14 +2,13 @@
 
 ## Biotite Notebook
 
-Reference : https://www.udemy.com/course/bioinformatics-with-python/
-            https://www.biotite-python.org/tutorial/index.html
+Reference : + https://www.udemy.com/course/bioinformatics-with-python/
+            + https://www.biotite-python.org/tutorial/index.html
 
 #### Bioinformatics with Biotite
 
-+ What is Biotite
++ 
 Biotite is a Python package for computational biologists. It aims to provide a broad set of tools for working with different kinds of biological data, from sequences to structures. On the one hand side, working with Biotite should be computationally efficient, with the help of the powerful packages NumPy and Cython. On the other hand it aims for simple usability and extensibility, so that beginners are not overwhelmed and advanced users can easily build upon the existing system to implement their own algorithms.
-+ Biotite is like a Swiss army knife for bioinformatics
 + It can handle a major part of the typical workflow for sequence and biomolecular structure data:
     - Searching and fetching data from biological databases
     - Reading and writing popular sequence/structure file formats
